@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I've been learning to core for almost 1 year trying to switch My career. I started with HTML, CSS but now I'm learning full stack development at Alx Africa SE
+I've been learning to code for almost 1 year trying to switch My career. I started with HTML, CSS but now I'm learning full stack development at Alx Africa SE
 
 * 🌍  I'm based in Kano, Nigeria
 * ✉️  You can contact me at [Yalkaurawing@yahoo.com](mailto:Yalkaurawing@yahoo.com)
